@@ -1,5 +1,6 @@
 # ML-Signature-verification
 Using SVM
+Skills: Python, Flask, HTML, CSS, JavaScript
 This is a python code which is executed in flask as web application.
 The web application has a very simple interface which takes a person's handwriting image as input and predicts whether it is genuine or forged.
 Algorithms used:
