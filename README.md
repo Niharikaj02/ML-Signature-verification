@@ -8,6 +8,6 @@ Algorithms used:
 2. OTSU method for image processing
 
 Instructions to run the file:
-1. Create a virtual environment in the project directory. (venv)
+1. Create a virtual environment in the project directory. (Install if not available)
 2. Enter the virtual environment
 3. Run 'app.py'
